@@ -1,0 +1,5 @@
+name,Batch size,Samples/second,Speed-Up,Speed-Up vs Slower
+FP CUDA,8,16.25,,3.0
+DQ CPU,8,5.41,0.33,1.17
+QAT CPU,8,4.64,0.86,1.58
+FP CPU,8,2.94,0.63,

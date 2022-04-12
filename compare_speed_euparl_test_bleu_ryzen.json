@@ -1,0 +1,1 @@
+[{"x":["QAT_CPU_EuParl..."],"y":[36.37],"type":"bar","name":"QAT_CPU_EuParl..."},{"x":["FP_CPU_EuParl ..."],"y":[37.1468],"type":"bar","name":"FP_CPU_EuParl ..."},{"x":["DQ_CPU_EuParl ..."],"y":[37.0646],"type":"bar","name":"DQ_CPU_EuParl ..."},{"x":["FP_CUDA_EuParl..."],"y":[37.1468],"type":"bar","name":"FP_CUDA_EuParl..."}]

@@ -1,0 +1,5 @@
+name,Batch size,test BLEU
+FP CPU,8,37.15
+FP CUDA,8,37.15
+DQ CPU,8,37.06
+QAT CPU,8,36.37
